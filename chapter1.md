@@ -9,3 +9,6 @@ attachments :
 
 *** =video_hls
 https://videos.datacamp.com/transcoded/682_intro_to_ml/v2/hls-ch1_1.master.m3u8
+*** =projector_key
+680364965b16be9b3d712fb5b060e341
+
